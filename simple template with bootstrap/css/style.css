@@ -1,0 +1,7 @@
+#mainsection{
+    background-image: url(../img/custom/wallpaper-stars.jpg);
+    background-size: cover ;
+}
+.card-comments img{
+    width: 4rem!important;
+}
